@@ -13,9 +13,9 @@ author: Joytou Wu
 owner_name: Joytou Wu
 
 #Server
-url: https://takagotch.github.io/page113/
+url: https://takagotch.github.io/
 github: https://github.com/takagotch/page113/
-baseurl: ""
+baseurl: "/page113"
 dnsPrefetch: "on"
 #dnsPrefetch: "off" if don't want use dns-prefetch
 dns:
@@ -23,8 +23,8 @@ dns:
       - "//dns17.hichina.com"
       
 #Github announce Settings
-github_username: joytou
-github_repo: joytou.github.io
+github_username: takagotch
+github_repo: takagotch.github.io/page113/
 github_label: announcement
 
 #Page settings
