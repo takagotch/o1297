@@ -13,8 +13,8 @@ author: Joytou Wu
 owner_name: Joytou Wu
 
 #Server
-url: https://joytou.net
-github: https://github.com/joytou/
+url: https://takagotch.github.io/page113/
+github: https://github.com/takagotch/page113/
 baseurl: ""
 dnsPrefetch: "on"
 #dnsPrefetch: "off" if don't want use dns-prefetch
